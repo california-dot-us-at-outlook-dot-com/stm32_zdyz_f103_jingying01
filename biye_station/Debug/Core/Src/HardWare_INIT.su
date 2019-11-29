@@ -1,0 +1,6 @@
+HardWare_INIT.c:15:6:JTAG_Set	24	static
+HardWare_INIT.c:25:6:sysTick_Set	4	static
+HardWare_INIT.c:33:6:MY_NVIC_SetVectorTable	16	static
+HardWare_INIT.c:39:6:MYRCC_DeInit	8	static
+HardWare_INIT.c:61:6:RCC_INIT	24	static
+HardWare_INIT.c:81:6:FSMC_LCD_INIT	4	static

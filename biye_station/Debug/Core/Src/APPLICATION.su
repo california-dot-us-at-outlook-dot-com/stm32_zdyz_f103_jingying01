@@ -1,0 +1,5 @@
+APPLICATION.c:15:7:crcGeneration	32	static
+APPLICATION.c:35:7:crcCheck	24	static
+APPLICATION.c:59:7:msgStructGeneration	48	static
+APPLICATION.c:177:7:sendMsg	16	static
+APPLICATION.c:187:7:recvMsg_wq	24	static

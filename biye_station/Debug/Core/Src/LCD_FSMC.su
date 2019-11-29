@@ -1,0 +1,9 @@
+LCD_FSMC.c:24:6:delay_us	16	static,ignoring_inline_asm
+LCD_FSMC.c:38:6:delay_ms	16	static
+LCD_FSMC.c:45:6:LCD_WR_REG	16	static
+LCD_FSMC.c:49:6:LCD_WR_DATA	16	static
+LCD_FSMC.c:53:6:LCD_WriteReg	16	static
+LCD_FSMC.c:60:6:LCD_WriteGRAM	16	static
+LCD_FSMC.c:66:6:LCD_SetXY	24	static
+LCD_FSMC.c:83:6:LCD_DIR	4	static
+LCD_FSMC.c:87:6:LCD_Init	8	static

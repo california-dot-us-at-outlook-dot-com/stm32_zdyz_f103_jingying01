@@ -1,0 +1,9 @@
+MENUS.c:37:7:menu01_buttons_handler	16	static
+MENUS.c:44:6:menu01_handler	40	static
+MENUS.c:143:6:GUI_Menu01_Create	48	static
+MENUS.c:194:6:GUI_Menu01_Scan	8	static
+MENUS.c:201:6:Menu01_loop	8	static
+MENUS.c:214:6:Menu02_handler	8	static
+MENUS.c:232:6:GUI_Menu02_Scan	8	static
+MENUS.c:238:6:GUI_Menu02_Create	24	static
+MENUS.c:286:6:Menu02_loop	8	static

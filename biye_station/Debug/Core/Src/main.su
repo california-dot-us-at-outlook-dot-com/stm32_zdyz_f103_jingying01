@@ -1,0 +1,5 @@
+main.c:59:6:button_handler1	16	static
+main.c:63:6:button_handler2	16	static
+main.c:81:5:main	64	static
+main.c:262:6:SystemClock_Config	72	static
+main.c:300:6:Error_Handler	4	static

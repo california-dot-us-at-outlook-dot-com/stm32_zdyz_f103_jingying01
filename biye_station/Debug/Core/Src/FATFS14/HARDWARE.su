@@ -1,0 +1,12 @@
+HARDWARE.c:11:9:RAM_disk_status	4	static
+HARDWARE.c:15:9:RAM_disk_initialize	4	static
+HARDWARE.c:19:9:RAM_disk_read	24	static
+HARDWARE.c:23:9:RAM_disk_write	24	static
+HARDWARE.c:28:9:MMC_disk_status	4	static
+HARDWARE.c:32:9:MMC_disk_initialize	16	static
+HARDWARE.c:37:9:MMC_disk_read	32	static
+HARDWARE.c:46:9:MMC_disk_write	32	static
+HARDWARE.c:56:9:USB_disk_status	4	static
+HARDWARE.c:60:9:USB_disk_initialize	4	static
+HARDWARE.c:64:9:USB_disk_read	24	static
+HARDWARE.c:68:9:USB_disk_write	24	static
